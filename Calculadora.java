@@ -21,7 +21,7 @@ public class Calculadora {
         int num1,num2;
         double resultado;
 
-        System.out.println("Hola Leonel!");
+        System.out.println("Hola Leonel Ahunchain!");
 
         Scanner teclado = new Scanner(System.in);
 
